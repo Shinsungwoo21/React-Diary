@@ -1,1 +1,1 @@
-# React-Dairy
+# React-Diary
