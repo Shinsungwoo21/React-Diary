@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div>
-      <Editor />
+      Home 페이지입니다!
     </div>
   )
 }
